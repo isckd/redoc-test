@@ -13,7 +13,6 @@ class TestController(
 
     @GetMapping("/hello")
     fun hello(): String {
-        println("testing!")
         return "Hello, World!"
     }
 

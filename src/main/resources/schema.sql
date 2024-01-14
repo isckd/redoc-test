@@ -1,0 +1,13 @@
+insert into member (id, name, age) values (1, 'userA', 10);
+insert into member (id, name, age) values (2, 'userB', 20);
+insert into member (id, name, age) values (3, 'userC', 30);
+insert into member (id, name, age) values (4, 'userD', 40);
+insert into member (id, name, age) values (5, 'userE', 50);
+insert into member (id, name, age) values (6, 'userF', 60);
+insert into member (id, name, age) values (7, 'userG', 70);
+insert into member (id, name, age) values (8, 'userH', 80);
+insert into member (id, name, age) values (9, 'userI', 90);
+insert into member (id, name, age) values (10, 'userJ', 100);
+insert into member (id, name, age) values (11, 'userK', 110);
+insert into member (id, name, age) values (12, 'userL', 120);
+insert into member (id, name, age) values (13, 'userM', 130);
