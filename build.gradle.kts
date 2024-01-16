@@ -37,7 +37,7 @@ dependencies {
     runtimeOnly("com.h2database:h2")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 
-    // swagger (openAPI)
+    // swagger (springfox 는 개발 지원 중단. springdoc 으로 대체)
     implementation("org.springdoc:springdoc-openapi-ui:1.6.8")
     implementation("org.springdoc:springdoc-openapi-common:1.6.8")
     implementation("org.springdoc:springdoc-openapi-kotlin:1.6.8")

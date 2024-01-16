@@ -1,6 +1,6 @@
 openapi: 3.0.0
-servers:
-  - url: 'localhost:8080/v2'
+#servers:
+#  - url: 'localhost:8080/v2'
 info:
   description: >-
     This is a sample server Petstore server. For this sample, you can use the api key
